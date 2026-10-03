@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of leonmmcoset/scratch-ifream.** Not for installation: use [Packagist](https://packagist.org/packages/leonmmcoset/scratch-ifream) or the [upstream repository](https://github.com/Leonmmcoset/scratch-ifream).
 
-**0** versions archived · Latest: [`2.9`](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v2.9) · License: `MIT` · Flarum: `^1.8.9`
+**8** versions archived · Latest: [`2.9`](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v2.9) · License: `MIT` · Flarum: `^1.8.9`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2025-05-31 | `^1.0.0` | [Browse](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v0.1) |
+| `0.2` | 2025-05-31 | `^1.0.0` | [Browse](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v0.2) |
+| `0.8` | 2025-06-01 | `^2.0` | [Browse](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v0.8) |
+| `0.9` | 2025-06-01 | `^1.8` | [Browse](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v0.9) |
+| `1.0` | 2025-06-01 | `^1.8` | [Browse](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v1.0) |
+| `1.1` | 2025-06-01 | `^1.8` | [Browse](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v1.1) |
+| `1.2` | 2025-06-01 | `^1.8` | [Browse](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v1.2) |
+| `1.3` | 2025-06-01 | `^1.8` | [Browse](https://github.com/flarchive/leonmmcoset-scratch-ifream/tree/archive/v1.3) |
 
 Catalog entry: [packages/leonmmcoset-scratch-ifream.json](https://github.com/flarchive/archive-index/blob/main/packages/leonmmcoset-scratch-ifream.json)
 
